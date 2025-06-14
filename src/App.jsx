@@ -115,7 +115,6 @@ const RealEstateLanding = () => {
     },
     {
       id: 3,
-      name: 'Kamfugo Edwin',
       title: 'Technician',
       experience: '4 years',
       deals: '14+',
